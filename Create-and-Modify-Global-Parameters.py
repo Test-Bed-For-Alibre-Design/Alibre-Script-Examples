@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/create-and-modify-global-parameters
+#https://help.alibre.com/articles/#!alibre-help-v23/create-and-modify-global-parameters
 
 # create a new global parameters set
 Params = GlobalParameters('Test')

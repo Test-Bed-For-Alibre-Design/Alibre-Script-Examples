@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/bolt-creator
+#https://help.alibre.com/articles/#!alibre-help-v23/bolt-creator
 
 MyPart = Part('My Part')
  

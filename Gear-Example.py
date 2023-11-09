@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/gear-example
+#https://help.alibre.com/articles/#!alibre-help-v23/gear-example
 
 Units.Current = UnitTypes.Millimeters
 

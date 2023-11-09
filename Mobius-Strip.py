@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/mobius-strip
+#https://help.alibre.com/articles/#!alibre-help-v23/mobius-strip
 
 # creates a mobius strip with a configurable number of rotations
  

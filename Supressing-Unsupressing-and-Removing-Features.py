@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/supressing-unsupressing-and-removing-features
+#https://help.alibre.com/articles/#!alibre-help-v23/supressing-unsupressing-and-removing-features
 
 # create a part
 P = Part('Example Part')

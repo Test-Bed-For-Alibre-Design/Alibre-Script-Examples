@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/import-points-from-a-csv-file-rotate-them-and-connect-into-a-polyline
+#https://help.alibre.com/articles/#!alibre-help-v23/import-points-from-a-csv-file-rotate-them-and-connect-into-a-polyline
 
 # imports a set of 2D points from a csv file, rotates them and then
 # adds them to a 2D sketch with lines connecting the points

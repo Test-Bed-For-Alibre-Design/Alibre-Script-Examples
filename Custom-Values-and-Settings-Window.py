@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/custom-values-and-settings-window
+#https://help.alibre.com/articles/#!alibre-help-v23/custom-values-and-settings-window
 
 # create windows object
 Win = Windows()

@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/parameters-with-units
+#https://help.alibre.com/articles/#!alibre-help-v23/parameters-with-units
 
 # this script uses inches for it's units
 Units.Current = UnitTypes.Inches

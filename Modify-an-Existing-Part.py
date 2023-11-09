@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/modify-an-existing-part
+#https://help.alibre.com/articles/#!alibre-help-v23/modify-an-existing-part
 
 # demonstrates opening an existing part and adding a 3d sketch to it
  

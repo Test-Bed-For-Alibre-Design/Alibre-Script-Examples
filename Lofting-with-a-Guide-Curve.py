@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/lofting-with-a-guide-curve
+#https://help.alibre.com/articles/#!alibre-help-v23/lofting-with-a-guide-curve
 
 # create part
 P = Part('foo')

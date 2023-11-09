@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/wave-washer
+#https://help.alibre.com/articles/#!alibre-help-v23/wave-washer
 
 import math
 from math import *

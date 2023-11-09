@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/joint-creator
+#https://help.alibre.com/articles/#!alibre-help-v23/joint-creator
 
 # Joint Creator
 # (c) Alibre, LLC 2019, All Rights Reserved

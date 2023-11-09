@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/scaling-a-sketch
+#https://help.alibre.com/articles/#!alibre-help-v23/scaling-a-sketch
 
 Units.Current = UnitTypes.Inches
  

@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/creating-a-3d-sketch-with-a-spline-and-an-arc
+#https://help.alibre.com/articles/#!alibre-help-v23/creating-a-3d-sketch-with-a-spline-and-an-arc
 
 Units.Current = UnitTypes.Inches
  

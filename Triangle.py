@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/triangle
+#https://help.alibre.com/articles/#!alibre-help-v23/triangle
 
 # Create triangle with angles 90, 15, 75
  

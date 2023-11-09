@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/slice-a-part
+#https://help.alibre.com/articles/#!alibre-help-v23/slice-a-part
 
 # open part, replace with your own path
 P = Part(r'C:\Users\Brian\Desktop\ScriptDir', 'New2')

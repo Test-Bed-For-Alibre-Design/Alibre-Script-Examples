@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/geodesic-dome-reference-geometry
+#https://help.alibre.com/articles/#!alibre-help-v23/geodesic-dome-reference-geometry
 
 # tessellates a sphere into triangles and generates a reference point at each vertex
 # adapted from

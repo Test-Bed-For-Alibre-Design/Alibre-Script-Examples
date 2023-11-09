@@ -1,4 +1,4 @@
-https://help.alibre.com/articles/#!alibre-help-v23/helical-spring
+#https://help.alibre.com/articles/#!alibre-help-v23/helical-spring
 
 import sys
 import math
