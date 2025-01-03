@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/list-all-parts-in-an-assembly-and-sub-assemblies
+#https://help.alibre.com/articles/#!alibre-help-v28/list-all-parts-in-an-assembly-and-sub-assemblies
 
 # list all the parts in an assembly and it's sub-assemblies
 def ListPartsinAssembly(Assem):

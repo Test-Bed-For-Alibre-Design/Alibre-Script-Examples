@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/servo-cam
+#https://help.alibre.com/articles/#!alibre-help-v28/servo-cam
 
 majorwidth  = 13.763
 minorwidth  = 6.260

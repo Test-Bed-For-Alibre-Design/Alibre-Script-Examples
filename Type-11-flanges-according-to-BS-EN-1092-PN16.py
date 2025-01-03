@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/type-11-flanges-according-to-bs-en-1092-pn16
+#https://help.alibre.com/articles/#!alibre-help-v28/type-11-flanges-according-to-bs-en-1092-pn16
 
 
 from math import cos,sin,radians

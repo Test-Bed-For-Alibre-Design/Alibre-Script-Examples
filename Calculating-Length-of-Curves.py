@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/calculating-length-of-curves
+#https://help.alibre.com/articles/#!alibre-help-v28/calculating-length-of-curves
 
 import sympy
 from sympy import *

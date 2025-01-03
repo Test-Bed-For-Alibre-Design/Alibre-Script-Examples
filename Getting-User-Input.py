@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/getting-user-input
+#https://help.alibre.com/articles/#!alibre-help-v28/getting-user-input
 
 # Demonstrates requesting values from the user then creating a part
 # with those values

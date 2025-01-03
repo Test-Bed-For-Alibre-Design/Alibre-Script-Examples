@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/tool-cutting
+#https://help.alibre.com/articles/#!alibre-help-v28/tool-cutting
 
 # cylinder dimensions
 Diameter = 20

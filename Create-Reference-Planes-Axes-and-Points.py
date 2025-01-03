@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/create-reference-planes-axes-and-points
+#https://help.alibre.com/articles/#!alibre-help-v28/create-reference-planes-axes-and-points
 
 # demonstrates creating reference geometry
  

@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/working-with-configurations
+#https://help.alibre.com/articles/#!alibre-help-v28/working-with-configurations
 
 # create a new part
 P = Part('Test')

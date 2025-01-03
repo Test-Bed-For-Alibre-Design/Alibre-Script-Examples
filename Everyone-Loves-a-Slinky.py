@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/everyone-loves-a-slinky
+#https://help.alibre.com/articles/#!alibre-help-v28/everyone-loves-a-slinky
 
 # Everyone Loves a Slinky
 # Adapted from:

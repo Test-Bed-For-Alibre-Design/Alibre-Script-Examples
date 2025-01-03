@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/midplane-extrusion
+#https://help.alibre.com/articles/#!alibre-help-v28/midplane-extrusion
 
 # create the part and then a sketch containing a circle
 P = Part('Test')

@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/assembly-constraints
+#https://help.alibre.com/articles/#!alibre-help-v28/assembly-constraints
 
 # create a new empty assembly
 Asm = Assembly("Test");

@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/drop-down-lists
+#https://help.alibre.com/articles/#!alibre-help-v28/drop-down-lists
 
 import glob
 import os

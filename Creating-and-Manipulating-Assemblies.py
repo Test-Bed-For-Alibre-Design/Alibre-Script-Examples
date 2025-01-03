@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/creating-and-manipulating-assemblies
+#https://help.alibre.com/articles/#!alibre-help-v28/creating-and-manipulating-assemblies
 
 
 # create a new empty assembly

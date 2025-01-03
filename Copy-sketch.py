@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/copy-sketch
+#https://help.alibre.com/articles/#!alibre-help-v28/copy-sketch
 
 MyPart = Part('MyPart')
 Sketch1 = MyPart.AddSketch('Sketch1', MyPart.GetPlane('XY-Plane'))

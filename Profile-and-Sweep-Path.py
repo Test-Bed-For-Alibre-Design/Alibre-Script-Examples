@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v23/profile-and-sweep-path
+#https://help.alibre.com/articles/#!alibre-help-v28/profile-and-sweep-path
 
 # create the part and get the yz plane
 MyPart = Part('Test')
