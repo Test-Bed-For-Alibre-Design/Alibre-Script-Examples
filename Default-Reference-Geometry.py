@@ -1,4 +1,4 @@
-#https://help.alibre.com/articles/#!alibre-help-v26/default-reference-geometry
+#https://help.alibre.com/articles/#!alibre-help-v28/default-reference-geometry
 
 # create a new part
 P = Part("Test")
